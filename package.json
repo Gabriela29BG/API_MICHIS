@@ -1,0 +1,17 @@
+{
+  "name": "api_michis",
+  "version": "1.0.0",
+  "description": "Aplicacion dondeusamos API de gatos con fetch y  axios en diferentes branch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Api",
+    "cats",
+    "fetch",
+    "axios"
+  ],
+  "author": "Gabriela Baltazares Garcia",
+  "license": "MIT"
+}
